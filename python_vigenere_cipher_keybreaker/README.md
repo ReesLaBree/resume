@@ -8,6 +8,7 @@ python3 vigenere.py
 <paste in vigenere text>
 ctrl+c
 ```
+Examples of text can be found in in ``samples.txt``.
 
 ## Author
 Rees LaBree, 2021
